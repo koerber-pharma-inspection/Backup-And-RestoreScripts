@@ -1,0 +1,4 @@
+CONF_DIR=("/home/vision/dbtools" "/home/vision/docker-compose-files" "dbgatewayconfig.json")
+DEST_DIR=/home/vision/
+REST_DIR=/home/vision/restore
+BACK_DIR=/home/vision/backup
